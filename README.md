@@ -40,8 +40,8 @@ Monity World is an advanced financial platform designed to facilitate both local
 - **Amazon EC2 & Lambda**: For scalable backend operations.
   
 ## Deployment
-- **Android**: Estimated deployment cost is around 38,000 XAF.
-- **iOS**: Estimated deployment cost is between 85,000 XAF and 197,000 XAF (85,000 XAF recommended).
+- **Android**: Estimated deployment cost is around ***.
+- **iOS**: Estimated deployment cost is between *** and *** XAF (*** recommended).
 - **Web (Admin)**: Deployment options will depend on your hosting preferences.
 
 ## Developers
@@ -50,7 +50,7 @@ Monity World is an advanced financial platform designed to facilitate both local
 - **Full-stack Web Developer**: Manages the front-end and back-end for the Admin platform.
 
 ## AWS Services Initial Setup
-An additional **50,000 XAF** is required for the initial purchase of AWS services (S3, SNS, MongoDB, etc.).
+An additional **____ XAF** is required for the initial purchase of AWS services (S3, SNS, MongoDB, etc.).
 
 ## Contribution
 Ehm..... !!!
